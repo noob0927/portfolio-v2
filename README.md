@@ -2,7 +2,8 @@
 This Portfolio is a small project using HTML / CSS and Bootstrap. I will be using this to show my projects!
 [Live replit deployment]( https://portfolio-v2.noob0927.repl.co )
 ## Screenshot:
-![ss10-18-2022](https://user-images.githubusercontent.com/112575648/196605611-5e37c56c-03f6-48b1-a86d-c12a2cd335da.png)
+![image](https://user-images.githubusercontent.com/112575648/197660845-2ec22266-a89f-488b-8118-0dd78c74894f.png)
+
 ## Technologies Used
 * HTML
 * CSS
