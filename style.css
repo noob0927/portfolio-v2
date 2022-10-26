@@ -6,6 +6,34 @@ body {
     color: blue;
 }
 
+.font-white {
+    color: white;
+}
+
+.font-red {
+    color: red;
+}
+
+.font-green {
+    color: green;
+}
+
+.font-blue {
+    color: blue;
+}
+
+.font-yellow {
+    color: yellow;
+}
+
+.font-orange {
+    color: orange;
+}
+
+.font-purple {
+    color: purple;
+}
+
 .title-icon {
     font-size: 20px;
     font-weight: bold;
@@ -83,4 +111,14 @@ a.font-black {
 
 #project .card-title {
     font-weight: bold;
+}
+
+img.bg-image {
+    position: relative;
+    width: 100%;
+}
+
+.container-content {
+    position: absolute;
+    top: 0;
 }
